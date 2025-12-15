@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: penguin
+Version: 0.1.0
+Summary: A CLI chatbot for advanced linux users
+Author: RHBK
+License-Expression: MIT
+Requires-Dist: ollama==0.12.9
+Requires-Dist: python-dotenv==1.2.1
